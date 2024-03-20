@@ -1,6 +1,6 @@
 [
   {
-    "name": "Deployment of two tier application using Kubernetes Master and Worker nodes.",
+    "name": "Deployment of two tier application.",
     "desc": "Built Kubernetes Cluster on AWS from Scratch with Minikube.Setup and Managed Docker Containers for Python-flask app and MySQL into Kubernetes Managed Deployment Replication Auto healing and Auto scaling for Kubernetes Cluster.",
     "image": "AWS",
     "category": "basicweb",
@@ -10,7 +10,7 @@
     } 
   },
   {
-    "name": "Deployment of Chat-GPT application via Jenkins and Docker",
+    "name": "Deployment of Chat-GPT application.",
     "desc": "Implemented a Continuous integration/continuous Deployment (CI/CD) pipeline for a React application enabling automated build, and deployment process upon code push. Implemented Github-Webhook, when a new commit happens a new build will be built and it will be reflected on the server.",
     "image": "Devops",
     "category": "basicweb",
